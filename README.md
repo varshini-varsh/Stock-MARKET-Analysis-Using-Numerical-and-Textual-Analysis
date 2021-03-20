@@ -1,6 +1,8 @@
 # Stock-MARKET-Analysis-Using-Numerical-and-Textual-Analysis
 
-# Task 7 by Sparks Foundation
+# Task 7 
+# Sparks Foundation
+# MARCH Batch
 # By Varshini
 
 
